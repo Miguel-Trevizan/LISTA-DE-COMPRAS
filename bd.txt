@@ -1,2 +1,3 @@
-url:
-key:
+url:https://rkqupiqbtngcyrdunuxc.supabase.co
+api key: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InJrcXVwaXFidG5nY3lyZHVudXhjIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDY1MzU2NTYsImV4cCI6MjA2MjExMTY1Nn0.FTIdlT2yLGvGnZUpx22jYnvRPLOE8n3MGZLddo27mNI
+key:9jmoTqOHk43GUmmi
