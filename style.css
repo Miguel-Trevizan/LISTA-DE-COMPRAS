@@ -12,7 +12,7 @@
 
 }
 
-#Entrar {
+#Entrar, #cadastro {
     background-color: darkkhaki;
     color: rgb(66, 61, 61);
     width: 155px;
@@ -20,12 +20,6 @@
 
 }
 
-#cadastro{
-    background-color: darkkhaki;
-    color: rgb(66, 61, 61);
-    width: 155;
-    height: 45px;
-}
 
 #email, #senha {
     display: block;
