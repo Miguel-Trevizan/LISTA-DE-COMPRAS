@@ -31,7 +31,7 @@
 #email, #senha {
     display: block;
     margin: 20px;
-    width: 200px;
-    height: 80px;
+    width: 100%;
+    height: 35px;
 }
 
