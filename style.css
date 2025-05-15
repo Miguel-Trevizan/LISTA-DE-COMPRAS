@@ -29,4 +29,5 @@
 
 #email, #senha {
     display: block;
+    margin: 20px;
 }
