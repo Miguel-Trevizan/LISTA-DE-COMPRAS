@@ -16,7 +16,7 @@
 #Entrar {
     background-color: darkkhaki;
     color: rgb(66, 61, 61);
-    width: 175px;
+    width: 155;
     height: 45px;
 
 }
@@ -24,14 +24,14 @@
 #cadastro{
     background-color: darkkhaki;
     color: rgb(66, 61, 61);
-    width: 150px;
+    width: 149px;
     height: 45px;
 }
 
 #email, #senha {
     display: block;
     margin: 20px;
-    width: 100%;
+    width: 86%;
     height: 35px;
 }
 
