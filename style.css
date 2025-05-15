@@ -21,6 +21,13 @@
     border-bottom-right-radius: 15px;
     border-top-left-radius: 15px;
     border-top-right-radius: 15px; 
+    cursor: pointer;
+    
+
+}
+
+#Entrar, #cadastro:hover {
+   background-color: rgb(150, 146, 92);
 
 }
 
