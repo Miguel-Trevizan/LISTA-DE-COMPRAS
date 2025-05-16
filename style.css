@@ -48,7 +48,7 @@
     text-align: center;
 }
 
-#sair, #adicionar{
+#adicionar{
     background-color: darkkhaki;
     color: rgb(66, 61, 61);
     width: 155px;
@@ -59,3 +59,10 @@
     border-top-right-radius: 15px; 
     cursor: pointer;
 } 
+
+#sair {
+    background-color: rgb(201, 19, 19);
+    width: 90px;
+    height: 25px;
+    
+}
