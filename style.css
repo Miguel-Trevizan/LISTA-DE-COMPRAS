@@ -9,7 +9,7 @@
     margin-right: auto;
     margin-top: 185px;
     text-align: center;
-
+    border: 1px solid black;
 }
 
 #Entrar, #cadastro {
