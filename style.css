@@ -48,3 +48,14 @@
     text-align: center;
 }
 
+#item, #adcionar{
+background-color: darkkhaki;
+    color: rgb(66, 61, 61);
+    width: 155px;
+    height: 45px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px; 
+    cursor: pointer;
+} 
