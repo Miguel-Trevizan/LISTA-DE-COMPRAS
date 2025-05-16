@@ -4,6 +4,7 @@
 
 .container {
     display: flex;
+    flex-direction: column;
     width: 500px;   
     height: 190px;
     margin-left: auto;
