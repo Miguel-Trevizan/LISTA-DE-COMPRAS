@@ -26,7 +26,7 @@
 
 }
 
-#Entrar, #cadastro:hover {
+#Entrar:hover, #cadastro:hover {
    background-color: rgb(150, 146, 92);
 
 }
