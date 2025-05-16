@@ -3,6 +3,7 @@
 }
 
 .container {
+    display: flex;
     width: 500px;   
     height: 190px;
     margin-left: auto;
@@ -11,6 +12,7 @@
     text-align: center;
     border: 1px solid black;
     border-radius: 15px;
+
 }
 
 #Entrar, #cadastro {
