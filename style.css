@@ -19,12 +19,23 @@
 
 }
 
-#Entrar, #cadastro {
+#Entrar {
     background-color: darkkhaki;
     color: rgb(66, 61, 61);
     width: 155px;
     height: 45px;
-    border-radius: 7px; 
+    border-radius: 0 7px 7px 0;
+    cursor: pointer;
+    margin-bottom: 10px;
+
+}
+
+#cadastro {
+    background-color: darkkhaki;
+    color: rgb(66, 61, 61);
+    width: 155px;
+    height: 45px;
+    border-radius: 7px 0 0 7px;
     cursor: pointer;
     margin-bottom: 10px;
 
