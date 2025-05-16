@@ -84,3 +84,8 @@ ul{
 #titulo {
     margin-top: 15px;
 }
+
+#item {
+    width: 120px;   
+    height: 40px;
+}
