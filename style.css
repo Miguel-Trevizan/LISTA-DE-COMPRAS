@@ -98,3 +98,7 @@ ul{
     border-top-left-radius: 7px;
     border-bottom-left-radius: 7px;
 }
+
+#adicionar:hover{
+    background-color:  rgb(150, 146, 92);
+}
