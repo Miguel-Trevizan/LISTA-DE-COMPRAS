@@ -74,7 +74,7 @@
 } 
 
 #sair {
-    background-color: rgb(201, 19, 19);
+    background-color: rgb(252, 13, 13);
     width: 90px;
     height: 25px;
     display: block;
@@ -101,4 +101,8 @@ ul{
 
 #adicionar:hover{
     background-color:  rgb(150, 146, 92);
+}
+
+#sair:hover{
+    background-color: rgb(201, 19, 19);
 }
