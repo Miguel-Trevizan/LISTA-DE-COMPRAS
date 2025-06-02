@@ -28,8 +28,11 @@ body{
     text-align: center;
     border: 1px solid black;
     border-radius: 15px;
-    
-
+    padding: clamp(2rem, 5vw, 3rem);
+    box-shadow: 0 8px 24px (--cor--sombra);
+    width: 100%;
+    max-width: 400px;
+    text-align: center;
 }
 
 #Entrar {
