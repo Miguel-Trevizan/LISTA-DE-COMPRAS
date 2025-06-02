@@ -16,7 +16,11 @@
     text-align: center;
     border: 1px solid black;
     border-radius: 15px;
-    
+     padding: clamp(2rem, 5vw, 3rem);
+    box-shadow: 0 8px 24px (--cor--sombra);
+    width: 100%;
+    max-width: 400px;
+    text-align: center;
 
 }
 
@@ -107,4 +111,11 @@ ul{
 
 #sair:hover{
     background-color: rgb(175, 11, 11);
+}
+.titulo {
+    font-size: clamp(1.5rem, 2vw + 1rem, 2rem);
+    color: var(--cor-texto);
+    margin-bottom: 1.5rem;
+    font-weight: 500;
+    
 }
