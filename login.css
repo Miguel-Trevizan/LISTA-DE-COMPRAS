@@ -135,3 +135,10 @@ ul{
     font-weight: 500;
     
 }
+
+#logo {
+    width: 150px;
+    height: auto;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
